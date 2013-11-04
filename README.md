@@ -1,7 +1,8 @@
 # Dash Puppet Module for Boxen
+[![Build
+Status](https://travis-ci.org/fundon/puppet-dash.png?branch=master)](https://travis-ci.org/fundon/puppet-dash)
 
-Install [Dash](http://kapeli.com/dash), an easy way to share files
-and folders on Mac OS X.
+Install [Dash](http://kapeli.com/dash), gives you instant offline access to 80+ API documentation sets.
 
 ## Usage
 
